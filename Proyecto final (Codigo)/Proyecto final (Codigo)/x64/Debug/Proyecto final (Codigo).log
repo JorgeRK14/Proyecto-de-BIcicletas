@@ -1,0 +1,11 @@
+﻿  Code Part.cpp
+C:\Users\Usuario\source\repos\Proyecto final (Codigo)\Proyecto final (Codigo)\Code Part.cpp(47,15): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\Usuario\source\repos\Proyecto final (Codigo)\Proyecto final (Codigo)\Code Part.cpp(75,58): warning C4267: 'argumento': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\Usuario\source\repos\Proyecto final (Codigo)\Proyecto final (Codigo)\Code Part.cpp(86,23): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\Usuario\source\repos\Proyecto final (Codigo)\Proyecto final (Codigo)\Code Part.cpp(139,14): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\Usuario\source\repos\Proyecto final (Codigo)\Proyecto final (Codigo)\Code Part.cpp(161,14): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\Usuario\source\repos\Proyecto final (Codigo)\Proyecto final (Codigo)\Code Part.cpp(194,48): warning C4267: 'argumento': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\Usuario\source\repos\Proyecto final (Codigo)\Proyecto final (Codigo)\Code Part.cpp(199,49): warning C4267: 'argumento': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\Usuario\source\repos\Proyecto final (Codigo)\Proyecto final (Codigo)\Code Part.cpp(243,14): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\Usuario\source\repos\Proyecto final (Codigo)\Proyecto final (Codigo)\Code Part.cpp(377,9): warning C4101: 'opcion': variable local sin referencia
+  Proyecto final (Codigo).vcxproj -> C:\Users\Usuario\source\repos\Proyecto final (Codigo)\x64\Debug\Proyecto final (Codigo).exe
